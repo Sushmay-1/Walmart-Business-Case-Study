@@ -5,6 +5,7 @@ The objective of this project is to conduct a comprehensive analysis of customer
 
 📝 Project Report
 You can access the complete project python file here - https://colab.research.google.com/drive/1OqbQHgWV8hqW5yH4SPP2t0BNzwStIy5G?usp=drive_link
+
 📚 About Data
 The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday.It has information of about 0.5 Million transactions during Black Friday throughout various years.
 
